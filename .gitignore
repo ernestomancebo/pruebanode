@@ -1,2 +1,2 @@
-*.a 	# Ignore files with 'a' extentions.
+*.[a] 	# Ignore files with 'a' extentions.
 *~ 	# Ignore temp files.
